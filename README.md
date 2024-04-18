@@ -1,7 +1,7 @@
 
 # Estrutura de Dados 2 - Instituto Federal Campus Hortolândia - SP
 
-Este repositório contém exercícios da disciplina de Estrutura de Dados 2, realizados durante o curso no Instituto Federal no Campus de Hortolândia - SP.
+Este repositório contém exercícios da disciplina de Estrutura de Dados 2, realizados durante o curso de ADS no Instituto Federal no Campus de Hortolândia - SP.
 
 <p align="center">
     <img src="https://github.com/pedrofratassi/portifolio/blob/main/imagem/logo_IF_branca.png?raw=true" />
