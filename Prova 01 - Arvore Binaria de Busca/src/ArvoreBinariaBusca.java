@@ -267,7 +267,7 @@ public class ArvoreBinariaBusca {
 	}
 
 
-	// Método Exigido 01: retornar a quantidade de números pares (chave) (ERREI)
+	// Método Exigido 02: retornar a quantidade de números pares (chave) (ERREI)
 //	public int pegaQuantidadeDeNumerosPares(int valorBuscado) {
 //		if (valorBuscado % 2 == 0) {
 //			return valorBuscado++;
