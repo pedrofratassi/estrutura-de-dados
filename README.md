@@ -20,6 +20,9 @@ O repositório é composto por implementações de estruturas de dados em Java, 
 - **Grafos**: Um grafo é uma estrutura de dados que consiste em um conjunto de nós (ou vértices) conectados por arestas. Ele é utilizado para modelar relacionamentos entre pares de objetos, como redes sociais, rotas de transporte, e muito mais. Os grafos podem ser direcionados ou não direcionados, ponderados ou não ponderados.
 
 - **Algoritmo de Dijkstra**: O algoritmo de Dijkstra é um algoritmo de caminho mínimo que encontra o caminho mais curto de um nó inicial para todos os outros nós em um grafo ponderado com arestas de peso não negativo. Ele é amplamente utilizado em redes de transporte e comunicação, além de ser um componente essencial em sistemas de navegação GPS.
+
+## 🔗Link para os PDF's da Aula de ED2
+https://www.dropbox.com/scl/fo/4s5kvbjc1yi4gui5qskl4/AFzxOvTjddJSUEfnj8txp38?rlkey=y54npu8tj51t6mgnbgssu7n0f&st=99wnb8xt&dl=0
   
 ## Licença
 
